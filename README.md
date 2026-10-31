@@ -1,8 +1,7 @@
 # Erfan Mohebolkhames
 
 PhD candidate in Chemical Engineering at the City College of New York, CUNY Energy Institute.
-I work on hybrid battery energy storage from both ends: the control software that decides, minute by
-minute, which battery serves the load, and the aqueous zinc batteries that could go into those systems.
+I work on hybrid battery energy storage from both ends: the control software and the aqueous zinc batteries that could go into those systems.
 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=gKwjPHgAAAAJ)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0004--8376--0378-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-8376-0378)
